@@ -2,7 +2,7 @@
 
 Displays random quotes with the click of a button.
 
-[Live Application](random-quote-machine-dlzl.surge.sh)
+[Live Application](https://random-quote-machine-dlzl.surge.sh)
 
 ### Project Goals
 
