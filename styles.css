@@ -1,70 +1,70 @@
 body {
-    background: red;
-    font-family: "Times New Roman", Times, serif;
+  background: red;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .container {
-    margin: 0 auto;
-    padding-top: 20vh;
-    text-align: center;
-    width: 75%;
+  margin: 0 auto;
+  padding-top: 20vh;
+  text-align: center;
+  width: 75%;
 }
 
 .title {
-    color: #fff;
-    letter-spacing: 1.25px;
-    margin-bottom: 50px;
+  color: #fff;
+  letter-spacing: 1.25px;
+  margin-bottom: 50px;
 }
 
 .quote-machine {
-    background: white;
-    border-radius: 5px;
-    display: none;
-    padding: 50px 25px 75px 25px;
+  background: white;
+  border-radius: 5px;
+  display: none;
+  padding: 50px 25px 75px 25px;
 }
 
 .quote {
-    font-size: 1.75em;
-    margin: 75px 0;
+  font-size: 1.75em;
+  margin: 75px 0;
 }
 
 .author, .twitter, .new-quote {
-    display: inline;
+  display: inline;
 }
 
 .author {
-    float: left;
-    font-size: 1.25em;
-    margin-left: 20px;
+  float: left;
+  font-size: 1.25em;
+  margin-left: 20px;
 }
 
 .new-quote, .twitter {
-    border: none;
-    border-radius: 5px;
-    color: #fff;
-    cursor: pointer;
-    float: right;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  float: right;
 }
 
 .new-quote {
-    background: #000;
-    font-family: inherit;
-    margin: 16px 20px 16px 5px;
-    padding: 12px;
+  background: #000;
+  font-family: inherit;
+  margin: 16px 20px 16px 5px;
+  padding: 12px;
 }
 
 .twitter {
-    background: rgb(29, 161, 242);
-    margin: 16px 5px;
-    padding: 11px;
+  background: rgb(29, 161, 242);
+  margin: 16px 5px;
+  padding: 11px;
 }
 
 .credit {
-    font-size: 0.75em;
-    margin-top: 50px;
+  font-size: 0.75em;
+  margin-top: 50px;
 }
 
 .credit a {
-    color: #fff;
-    text-decoration: none;
+  color: #fff;
+  text-decoration: none;
 }
